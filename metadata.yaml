@@ -1,0 +1,37 @@
+_repo: York-and-Lancaster-1399-1485_56180
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jones, William Garmon
+    gutenberg_agent_id: '48707'
+    url: http://www.gutenberg.org/2009/agents/48707
+  editors:
+  - agent_name: Bell, Kenneth (Kenneth Norman)
+    aliases:
+    - Bell, K. (Kenneth Norman)
+    - Bell, Kenneth Norman
+    birthdate: 1884
+    deathdate: 1951
+    gutenberg_agent_id: '45568'
+    url: http://www.gutenberg.org/2009/agents/45568
+  - agent_name: Winbolt, S. E. (Samuel Edward)
+    alias: Winbolt, Samuel Edward
+    birthdate: 1868
+    deathdate: 1944
+    gutenberg_agent_id: '45567'
+    url: http://www.gutenberg.org/2009/agents/45567
+description: ''
+gutenberg_issued: '2017-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56180'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'York and Lancaster
+
+  1399-1485'
+url: http://www.gutenberg.org/ebooks/56180
