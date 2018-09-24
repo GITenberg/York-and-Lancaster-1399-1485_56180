@@ -1,5 +1,8 @@
 _repo: York-and-Lancaster-1399-1485_56180
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56180-h/images/cover.jpg
 creator:
   author:
     agent_name: Jones, William Garmon
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '45567'
     url: http://www.gutenberg.org/2009/agents/45567
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56180#York-and-Lancaster-1399-1485
 gutenberg_issued: '2017-12-15'
 gutenberg_type: Text
 identifiers:
